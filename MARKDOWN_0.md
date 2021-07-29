@@ -25,4 +25,47 @@ Para adicionar uma linha, tulizamos 3 traços "-" ou 3 asteriscos "*". Veja o c�
          1. Sub3
 
 
-Parei no vídeo 10 - Guia da Linguagem Markdown - min.: 18:59. Clique [AQUI](https://youtu.be/LntSB-gl-ZI?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA&t=1139)
+## Listas demarcadas
+
+* Nível 1
+   * sub1
+
+## Listas de tarefas
+
+- [ ] Fazer tarefa 1
+- [ ] Fazer tarefa 2
+   - [x] Fazer subtarefa 2.2
+
+
+## Esta logo é da minha universidade
+![Puc Goiás](https://user-images.githubusercontent.com/87877370/127545662-3f222f6c-0dd7-41a5-a28c-2d61288700fb.png)
+
+O site da Puc Goiás é este [AQUI](https://www.pucgoias.edu.br/)
+
+
+## Tabelas
+
+Num | Nome | Nota
+---|---|---
+1 | Joás Rodrigues da Mata | 9,8
+2 | Joca alencar | 10,0
+
+## Inserir código no Markdown
+
+Não entendo direito para que serve o comando `document.getElementByld()` da linguagem JavaScript
+
+
+## Inserir um código de mais de uma linha de uma linguagem de programação qualquer
+
+```
+num = int(input("Digite um valor: ))
+ if num % 2 ==0:
+   print(f"O valor {num} é PAR")
+ else:
+   print(f"O valor {num} é IMPAR")
+```
+
+# Inserir emojy
+
+🖖. Como vai ?
+Para saber mais comandos de emojis, basta acessar esse link [AQUI](https://github.com/ikatyang/emoji-cheat-sheet).
