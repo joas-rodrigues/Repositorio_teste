@@ -20,4 +20,9 @@ Para adicionar uma linha, tulizamos 3 traços "-" ou 3 asteriscos "*". Veja o c�
 ## Listas numeradas
 
 1. Nível 1
-   2. Subnivel 1
+   1. Sub1
+      1. Sub2
+         1. Sub3
+
+
+Parei no vídeo 10 - Guia da Linguagem Markdown - min.: 18:59. Clique [AQUI](https://youtu.be/LntSB-gl-ZI?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA&t=1139)
