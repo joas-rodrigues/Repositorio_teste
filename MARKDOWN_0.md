@@ -73,3 +73,7 @@ Para saber mais comandos de emojis, basta acessar esse link [AQUI](https://githu
 ## Como marcar pessoas no Markdown ?
 
 Como diria @joas-rorigues
+
+
+## Fazer reply
+
