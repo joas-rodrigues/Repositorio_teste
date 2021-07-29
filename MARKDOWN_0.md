@@ -72,7 +72,11 @@ Para saber mais comandos de emojis, basta acessar esse link [AQUI](https://githu
 
 ## Como marcar pessoas no Markdown ?
 
-Como diria @joas-rorigues
+Como diria **joas rorigues** :
+
+> Logo eu que nem tava aqui,
+> não e põe no meio dessa treta amigo
+> eu quero é paz.
 
 
 ## Fazer reply
