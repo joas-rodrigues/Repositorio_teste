@@ -69,3 +69,7 @@ num = int(input("Digite um valor: ))
 
 🖖. Como vai ?
 Para saber mais comandos de emojis, basta acessar esse link [AQUI](https://github.com/ikatyang/emoji-cheat-sheet).
+
+## Como marcar pessoas no Markdown ?
+
+Como diria @joas-rorigues
