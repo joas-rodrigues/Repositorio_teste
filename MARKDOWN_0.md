@@ -74,9 +74,9 @@ Para saber mais comandos de emojis, basta acessar esse link [AQUI](https://githu
 
 Como diria **joas rorigues** :
 
-> Logo eu que nem tava aqui,
-> não e põe no meio dessa treta amigo
-> eu quero é paz.
+> Logo eu que nem tava aqui, 
+> Venha logo
+> Sai daqui
 
 
 ## Fazer reply
